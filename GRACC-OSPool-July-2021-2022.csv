@@ -1,0 +1,167 @@
+﻿Project,Field of Science,Sum of CoreHours
+Hawaii_Doetinchem,Physics,"19,750,257.6"
+TG-CHE200122,Chemistry,"19,157,805.6"
+WSU_3DHydro,Physics,"18,158,021.9"
+spt.all,Astronomy,"11,734,939.9"
+eht,Astronomy,"9,728,498.4"
+CLAS12,Physics,"8,798,203.8"
+REDTOP,Physics,"8,063,201.2"
+MSU_Berz,Physics,"7,515,136.9"
+EvolSims,Biological Sciences,"7,029,788.0"
+UChicago_Jonas,Chemistry,"5,877,055.8"
+Michigan_Riles,Astronomy,"5,199,239.0"
+PixleyLab,Physics,"5,033,045.5"
+microphases,Chemistry,"4,519,413.3"
+BiomedInfo,Biological Sciences,"4,329,339.2"
+SSGAforCSP,Biological Sciences,"3,467,107.3"
+EIC,Physics,"3,192,640.3"
+CompBinFormMod,Astronomy,"3,116,709.1"
+UCBerkeley_Altman,Physics,"2,905,904.2"
+MIT_Choi,Physics,"2,718,680.6"
+SC_Gothe,Physics,"2,689,256.5"
+electrolytes,Chemistry,"2,422,514.0"
+LancasterPPS,Physics,"2,191,427.3"
+AMNH.astro,Astronomy,"2,169,576.3"
+DemoSims,Biological Sciences,"1,860,952.1"
+MIT_Chakraborty,Biological Sciences,"1,671,581.6"
+xenon1t,Astronomy,"1,587,561.3"
+RIT_KGCEval,Computer Sciences,"1,567,069.7"
+BiostatsChapple,Mathematics,"1,459,713.9"
+GLUEX,Physics,"1,138,353.8"
+UTAustin_Zimmerman,Astronomy,"1,096,237.5"
+SourceCoding,Engineering,"1,050,373.7"
+IceCube,Astronomy,"932,188.4"
+Duke-QGP,Physics,"875,362.0"
+chemml,Chemistry,"861,150.3"
+UCDavis_Pickett,Engineering,"792,151.6"
+UConn_Le,Physics,"767,094.1"
+Arcadia_Curotto,Chemistry,"728,976.3"
+IIT_Cheng,Mathematics,"627,260.0"
+UTulsa_Booth,Biological Sciences,"484,340.2"
+COVID19_FoldingAtHome,Biological Sciences,"462,515.9"
+Illinois_Jackson,Chemistry,"434,163.9"
+UCMerced_Han,Chemistry,"417,988.0"
+UCSD_Rappel,Physics,"390,284.1"
+ERVmodels,Biological Sciences,"359,539.1"
+UIowa_Reno,Astronomy,"319,449.9"
+Stanford_Fletcher,Engineering,"272,103.2"
+ASU_EvolutionMedicineIT,Biological Sciences,"161,576.7"
+TexasAM_Fang,Economics,"132,778.1"
+TG-CIS210126,Computer Sciences,"127,452.7"
+Columbia_Mandal,Chemistry,"119,762.8"
+Rice_Ogilvie,Biological Sciences,"118,024.7"
+Arizona_Males,Astronomy,"110,387.2"
+BioAlgorithms,Biological Sciences,"86,728.1"
+holosim,Biological Sciences,"70,914.4"
+TG-CHE200063,Chemistry,"63,188.6"
+OSG-Staff,Computer Sciences,"56,202.7"
+FEMyo,Health,"52,239.3"
+TG-PHY210092,Physics,"45,435.8"
+SBGrid,Biological Sciences,"44,629.5"
+MOLLER,Physics,"43,723.5"
+SINGE,Biological Sciences,"42,872.1"
+duke.ppsa,Chemistry,"38,693.3"
+UCSD_YZYou,Physics,"35,656.3"
+WeNMR,Biological Sciences,"32,756.7"
+Cornell_Lai,Biological Sciences,"28,124.1"
+UCSD_Xu,Mathematics,"25,049.5"
+Michigan_Knowles,Biological Sciences,"22,006.1"
+COVID19_JHU_Howard,Mathematics,"21,474.3"
+LSU_Wilson,Physics,"21,247.4"
+COVID19_WeNMR,Biological Sciences,"21,001.0"
+UCAnschutz_Langner,Biological Sciences,"19,152.5"
+AMNH,Integrative Activities,"13,337.5"
+UCSF_Manglik,Biological Sciences,"11,659.5"
+AMNH_Burbrink,Biological Sciences,"10,942.6"
+Mines_Leach,Physics,"8,803.9"
+MCSimulations,Physics,"6,185.9"
+Rice_Fox,Economics,"5,704.0"
+g4PSI,Physics,"3,560.9"
+NJIT_Nadim,Biological Sciences,"2,623.7"
+ACE_NIAID,Biological Sciences,"2,415.6"
+Guam_Bentlage,Biological Sciences,"2,355.7"
+PSU_Chen,Engineering,"1,917.0"
+MMHA,Economics,"1,611.5"
+TG-CHE210056,Chemistry,"1,562.1"
+psychosisfmri,Biological Sciences,"1,376.0"
+JHU_Howard,Mathematics,980.2
+WUSTL_Harris,Health,950.6
+TG-PHY210094,Physics,794.9
+UCSD_Pa,Biological Sciences,777.7
+UCSD_ResearchIT,Other,712.3
+PennState_Hanna,Physics,428.2
+TG-CHM210003,Engineering,319.1
+PainDrugs,Health,306.9
+Canisius_Wood,Physics,303.8
+UWMadison_Vavilov,Physics,269.3
+UCDenver_Gaffney,Engineering,267.5
+Flightworthy,Computer Sciences,199.4
+UCDavis_Leveau,Biological Sciences,159.5
+PCFOSGUCSD,Physics,150.3
+WayneStateU_Majumder,Physics,134.4
+Tutorial-PEARC21,Computer Sciences,122.1
+UMCES_Fitzpatrick,Biological Sciences,110.6
+BioGraph,Biological Sciences,98.5
+WayneStateU_Pruneau,Physics,90.6
+OSU_Weinberg,Economics,87.9
+NIST_CTCMS,Integrative Activities,86.9
+Fairfield_Kubasik,Chemistry,75.8
+UserSchool2016,Other,53.9
+Illinois_Vieira,Astronomy,50.2
+ASU_CoMSESNet,Other Social Sciences,46.7
+BC_Grubb,Economics,43.8
+UCSD_Arovas,Physics,36.5
+GATech_PACE,Computer Sciences,35.5
+cyverse,Biological Sciences,30.6
+NMSU_SpinQuest,Physics,30.5
+IU_Tang,Biological Sciences,24.1
+USC_Deelman,Computer Sciences,17.8
+KSU_Ng,Chemistry,16.6
+Training-ACE-NIAID,Other,16.6
+FSU_Kolberg,Physics,10.6
+UAB_ResearchComputing,Integrative Activities,6.6
+mwt2-staff,Computer Sciences,5.6
+UWMadison_Fredrickson,Chemistry,5.4
+UWMadison_Bechtol,Astronomy,5.0
+USU_Kaundal,Biological Sciences,3.5
+CSM_BeEST,Physics,3.4
+UWMadison_Keles,Mathematics,3.2
+NCSU_Petersen,Engineering,2.8
+CUNYBrooklyn_Juszczak,Chemistry,2.4
+BU_Mu2e,Physics,2.1
+NMSU_staff,Computer Sciences,1.8
+ConnectTrain,Other,1.6
+UC-Staff,Computer Sciences,1.5
+NeuroscienceGateway,Biological Sciences,1.2
+UCHC_Mendes,Biological Sciences,1.0
+LoyolaChicago_Li,Chemistry,0.8
+Caltech_Chary,Astronomy,0.7
+KSU_Li,Chemistry,0.5
+UAF_Aschwanden,Earth and Ocean Sciences,0.5
+UCSD_Fricker,Earth and Ocean Sciences,0.5
+Arkansas_Nelson,Computer Sciences,0.4
+AlGDock,Chemistry,0.3
+ASU_Ozkan,Physics,0.3
+sugwg,Astronomy,0.2
+UWMadison_Keller,Biological Sciences,0.2
+BCBB_NIAID,Biological Sciences,0.1
+UMassLowell_Laycock,Astronomy,0.1
+VERITAS,Astronomy,0.1
+Caltech_Rusholme,Astronomy,0.0
+Vanderbilt_Gabella,Physics,0.0
+UEdinburgh_DUNE,Physics,0.0
+Northeastern_RC,Computer Sciences,0.0
+UAB_Worthey,Biological Sciences,0.0
+Utah_Chipman,Biological Sciences,0.0
+HTCC,Computer Sciences,0.0
+Tufts_Levin,Biological Sciences,0.0
+Albany_DAES,Atmospheric Sciences,0.0
+KentState_Thomas,Computer Sciences,0.0
+selfassembly,Chemistry,0.0
+OSGUserTrainingPilot,Other,0.0
+UTSouthwestern_Lin,Biological Sciences,0.0
+UNC_Drut,Physics,0.0
+GATech_Sholl,Chemistry,0.0
+duke.lsst,Astronomy,0.0
+FDLTCC_Wetherbee,Astronomy,0.0
+SDSU_Huangfu,Computer Sciences,0.0
